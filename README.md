@@ -48,7 +48,7 @@ The following analyses were performed:
 
 - Fraud vs Non-Fraud Comparison
 - Target Class Distribution
-- - Feature Distribution Analysis
+- Feature Distribution Analysis
 - Correlation Analysis
 - Pair Plot Analysis
 - Missing Value Analysis
