@@ -46,9 +46,9 @@ The dataset is highly imbalanced, reflecting real-world fraud detection scenario
 
 The following analyses were performed:
 
-- Missing Value Analysis
-- Target Class Distribution
-- Correlation Analysis
-- Feature Distribution Analysis
-- Pair Plot Analysis
 - Fraud vs Non-Fraud Comparison
+- Target Class Distribution
+- - Feature Distribution Analysis
+- Correlation Analysis
+- Pair Plot Analysis
+- Missing Value Analysis
